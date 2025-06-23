@@ -4,7 +4,7 @@ Bu projede, **HC-SR04 ultrasonik sensör** ve **servo motor** kullanarak bir **r
 Arduino üzerinden ölçülen mesafeler **Processing uygulaması** ile grafiksel olarak radar ekranında gösterilir.
 
 🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)  
-🔗 [Tinkercad Tasarımına Göz At](#)
+
 
 ---
 
