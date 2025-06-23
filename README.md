@@ -87,7 +87,7 @@ int calculateDistance() {
 }
 ```
 
-## 💻 Adım 2: Arduino Kodunu Yükleyin
+## 💻 Adım 3: Processing Kodunu Yükleyin 
 
 ```cpp
 
