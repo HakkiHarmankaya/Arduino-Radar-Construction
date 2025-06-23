@@ -86,6 +86,10 @@ int calculateDistance() {
   return distance;
 }
 
+## 💻 Adım 2: Arduino Kodunu Yükleyin
+
+```cpp
+
 import processing.serial.*;
 import java.awt.event.KeyEvent;
 import java.io.IOException;
